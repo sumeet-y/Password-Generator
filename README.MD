@@ -36,10 +36,7 @@
 <table>
 <tr>
     <td>
-        <!-- <img src="./password-gif.mp4" alt="Video-preview"  width=300 > -->
-        <video width="300" autoplay muted controls>
-            <source src="movie.mp4" type="video/mp4">
-        </video>
+        <img src="./password-gif.mp4" alt="Video-preview"  width=300 >
     </td>
 </tr>
 
