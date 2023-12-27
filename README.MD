@@ -20,7 +20,7 @@
 <h2>Responsive Design:</h2>
 <p>The application is designed to be responsive, adapting seamlessly to various screen sizes and devices, making it accessible and user-friendly across different platforms.</p>
 
-<h2>Empower your online security with a password tailored to your preferences. Try the Custom Password Generator now and enhance your digital security effortlessly.</h2>
+<p>Empower your online security with a password tailored to your preferences. Try the Custom Password Generator now and enhance your digital security effortlessly.</p>
 
 <p>Happy Learning.</p>
 
