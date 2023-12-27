@@ -27,7 +27,7 @@
 <h1>Screenshots</h1>
 <table>
 <tr>
-    <td><img src="./screenshot.png" width=300/></td>
+    <td><img src="./screenshot.png" alt="screenshot" width=300/></td>
 </tr>
 
 
@@ -36,7 +36,7 @@
 <table>
 <tr>
     <td>
-        <img src="./password-gif.mp4"  width=300 >
+        <img src="./password-gif.mp4" alt="Video-preview"  width=300 >
     </td>
 </tr>
 
