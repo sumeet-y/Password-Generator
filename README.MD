@@ -24,6 +24,8 @@
 
 <p>Happy Learning.</p>
 
+<p>If video and screenshot is not visible to you, then check your internet connection and try again</p>
+
 <h1>Screenshots</h1>
 <table>
 <tr>
@@ -39,5 +41,4 @@
         <img src="./password-gif.mp4" alt="Video-preview"  width=300 >
     </td>
 </tr>
-<p>If video and screenshot is not visible to you, then check your internet connection and try again</p>
 </table>
