@@ -102,3 +102,30 @@ h2{
 .scale{
     transform: scale(0.96);
 }
+@media(max-width:350px){
+    .heading{
+        font-size: 0.6rem;
+        margin: 0.8rem;
+    }
+    h2{
+        font-size: 0.8rem;
+    }
+    .btn{
+        font-size: 0.9rem;
+    }
+    .wrap-container{
+        padding: 0.8rem;
+    }
+    .input-field{
+        width: 75%;
+    }
+    .counter-box{
+        margin-bottom: 0.7rem;
+    }
+    .setting-text{
+        margin-bottom: 0.5rem;
+    }
+    .text1{
+        margin-bottom: 0.3rem;
+    }
+}
