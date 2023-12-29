@@ -39,5 +39,4 @@
         <img src="./password-gif.mp4" alt="Video-preview"  width=300 >
     </td>
 </tr>
-
 </table>
