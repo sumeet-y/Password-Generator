@@ -24,6 +24,8 @@
 
 <p>Happy Learning.</p>
 
+<p>If video and screenshot is not visible to you, then check your internet connection and try again</p>
+
 <h1>Screenshots</h1>
 <table>
 <tr>
